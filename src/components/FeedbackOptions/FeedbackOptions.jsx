@@ -17,5 +17,3 @@ FeedbackOptions.propTypes = {
     options: PropTypes.array.isRequired, 
     onLeaveFeedback: PropTypes.func.isRequired,
 }
-
-console.log(typeof typeof(undefined))
